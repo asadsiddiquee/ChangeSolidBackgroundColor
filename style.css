@@ -1,0 +1,18 @@
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: cornflowerblue;
+}
+
+#button {
+    font-size: 1.5rem;
+    color: rgb(255, 227, 227);
+    background-color:rgb(1, 2, 2);
+    border-style: none;
+}
+#button:hover {
+    cursor: pointer;
+    background-color: transparent;
+}
